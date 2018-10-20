@@ -1,0 +1,614 @@
+[
+    [
+        "/Users/tommy/workspace/dx-workspace/geolocation/force-app",
+        {
+            "sourcePath": "/Users/tommy/workspace/dx-workspace/geolocation/force-app",
+            "isDirectory": true,
+            "size": 238,
+            "modifiedTime": 1535788149000,
+            "changeTime": 1535788149000,
+            "contentHash": "616f0b58f976741c1fc6b922e150a75d8d9fbd72",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/Users/tommy/workspace/dx-workspace/geolocation/force-app/main",
+        {
+            "sourcePath": "/Users/tommy/workspace/dx-workspace/geolocation/force-app/main",
+            "isDirectory": true,
+            "size": 102,
+            "modifiedTime": 1535431639000,
+            "changeTime": 1535431639000,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/tommy/workspace/dx-workspace/geolocation/force-app/main/default",
+        {
+            "sourcePath": "/Users/tommy/workspace/dx-workspace/geolocation/force-app/main/default",
+            "isDirectory": true,
+            "size": 204,
+            "modifiedTime": 1535432163000,
+            "changeTime": 1535432163000,
+            "contentHash": "4cfd1989fa44dd1a317ae36b127a22da3b8eae1b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/tommy/workspace/dx-workspace/geolocation/force-app/main/default/aura",
+        {
+            "sourcePath": "/Users/tommy/workspace/dx-workspace/geolocation/force-app/main/default/aura",
+            "isDirectory": true,
+            "size": 68,
+            "modifiedTime": 1535431639000,
+            "changeTime": 1535431639000,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/tommy/workspace/dx-workspace/geolocation/force-app/main/default/layouts",
+        {
+            "sourcePath": "/Users/tommy/workspace/dx-workspace/geolocation/force-app/main/default/layouts",
+            "isDirectory": true,
+            "size": 204,
+            "modifiedTime": 1535432163000,
+            "changeTime": 1535432163000,
+            "contentHash": "e3687f65b0885128a02e534ece5e0cf3ce9f38c0",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/tommy/workspace/dx-workspace/geolocation/force-app/main/default/layouts/Account-Account %28Marketing%29 Layout.layout-meta.xml",
+        {
+            "sourcePath": "/Users/tommy/workspace/dx-workspace/geolocation/force-app/main/default/layouts/Account-Account %28Marketing%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 9634,
+            "modifiedTime": 1535432163000,
+            "changeTime": 1535432163000,
+            "contentHash": "f7a26fc7afa2ba10a76f6c9fa8d4485ba2d5cccc",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/tommy/workspace/dx-workspace/geolocation/force-app/main/default/layouts/Account-Account %28Sales%29 Layout.layout-meta.xml",
+        {
+            "sourcePath": "/Users/tommy/workspace/dx-workspace/geolocation/force-app/main/default/layouts/Account-Account %28Sales%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 9586,
+            "modifiedTime": 1535432163000,
+            "changeTime": 1535432163000,
+            "contentHash": "3d834985c61ff6a9928df5785f798e51007fa081",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/tommy/workspace/dx-workspace/geolocation/force-app/main/default/layouts/Account-Account %28Support%29 Layout.layout-meta.xml",
+        {
+            "sourcePath": "/Users/tommy/workspace/dx-workspace/geolocation/force-app/main/default/layouts/Account-Account %28Support%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 9634,
+            "modifiedTime": 1535432163000,
+            "changeTime": 1535432163000,
+            "contentHash": "f98c237e754265bad721ca70d32ef63d2378098d",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/tommy/workspace/dx-workspace/geolocation/force-app/main/default/layouts/Account-Account Layout.layout-meta.xml",
+        {
+            "sourcePath": "/Users/tommy/workspace/dx-workspace/geolocation/force-app/main/default/layouts/Account-Account Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 9586,
+            "modifiedTime": 1535432163000,
+            "changeTime": 1535432163000,
+            "contentHash": "c35329bb3c71d6e18c77d6f10db8d9eb1fdf7f07",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/tommy/workspace/dx-workspace/geolocation/force-app/main/default/objects",
+        {
+            "sourcePath": "/Users/tommy/workspace/dx-workspace/geolocation/force-app/main/default/objects",
+            "isDirectory": true,
+            "size": 102,
+            "modifiedTime": 1535432163000,
+            "changeTime": 1535432163000,
+            "contentHash": "85dfa32c97d8618d1bea083609e2c8a29845abe5",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/tommy/workspace/dx-workspace/geolocation/force-app/main/default/objects/Account",
+        {
+            "sourcePath": "/Users/tommy/workspace/dx-workspace/geolocation/force-app/main/default/objects/Account",
+            "isDirectory": true,
+            "size": 102,
+            "modifiedTime": 1535432163000,
+            "changeTime": 1535432163000,
+            "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/tommy/workspace/dx-workspace/geolocation/force-app/main/default/objects/Account/fields",
+        {
+            "sourcePath": "/Users/tommy/workspace/dx-workspace/geolocation/force-app/main/default/objects/Account/fields",
+            "isDirectory": true,
+            "size": 102,
+            "modifiedTime": 1535432163000,
+            "changeTime": 1535432163000,
+            "contentHash": "ed9507e1a7b8d71b06770b31554f20c0051c8038",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/tommy/workspace/dx-workspace/geolocation/force-app/main/default/objects/Account/fields/Test_Field_1__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/tommy/workspace/dx-workspace/geolocation/force-app/main/default/objects/Account/fields/Test_Field_1__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 378,
+            "modifiedTime": 1535433068000,
+            "changeTime": 1535433068000,
+            "contentHash": "5440f73b1529718a46549b9a072ecb507013db6c",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/tommy/workspace/dx-workspace/geolocation/force-app/main/default/profiles",
+        {
+            "sourcePath": "/Users/tommy/workspace/dx-workspace/geolocation/force-app/main/default/profiles",
+            "isDirectory": true,
+            "size": 204,
+            "modifiedTime": 1535432163000,
+            "changeTime": 1535432163000,
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/tommy/workspace/dx-workspace/geolocation/force-app/main/default/profiles/Admin.profile-meta.xml",
+        {
+            "sourcePath": "/Users/tommy/workspace/dx-workspace/geolocation/force-app/main/default/profiles/Admin.profile-meta.xml",
+            "isDirectory": false,
+            "size": 17882,
+            "modifiedTime": 1535432163000,
+            "changeTime": 1535432163000,
+            "contentHash": "ef490be4e3d175a807cf436ee6e755d8f1a1800f",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/tommy/workspace/dx-workspace/geolocation/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "sourcePath": "/Users/tommy/workspace/dx-workspace/geolocation/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "size": 4481,
+            "modifiedTime": 1535432163000,
+            "changeTime": 1535432163000,
+            "contentHash": "a93cd49485928a71849f62c7735928e7517c156f",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/tommy/workspace/dx-workspace/geolocation/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "sourcePath": "/Users/tommy/workspace/dx-workspace/geolocation/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "size": 4477,
+            "modifiedTime": 1535432163000,
+            "changeTime": 1535432163000,
+            "contentHash": "61a95ab1274049728977d55d89c833fe1cca537d",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/tommy/workspace/dx-workspace/geolocation/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
+        {
+            "sourcePath": "/Users/tommy/workspace/dx-workspace/geolocation/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "size": 4817,
+            "modifiedTime": 1535432163000,
+            "changeTime": 1535432163000,
+            "contentHash": "abe5ecda1eb7bbf3f47c22feda172f79b5781e8c",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/tommy/workspace/dx-workspace/geolocation",
+        {
+            "sourcePath": "/Users/tommy/workspace/dx-workspace/geolocation",
+            "isDirectory": true,
+            "size": 306,
+            "modifiedTime": 1535435389000,
+            "changeTime": 1535435389000,
+            "contentHash": "e2c58af37242bc3d18feb218e8476c3be0f9ecbf",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true
+        }
+    ],
+    [
+        "/Users/tommy/workspace/dx-workspace/geolocation/force-app/util",
+        {
+            "sourcePath": "/Users/tommy/workspace/dx-workspace/geolocation/force-app/util",
+            "isDirectory": true,
+            "size": 170,
+            "modifiedTime": 1535434901000,
+            "changeTime": 1535434901000,
+            "contentHash": "7a71b3da78486297df7221700dc411154ae507a7",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/tommy/workspace/dx-workspace/geolocation/force-app/util/aura",
+        {
+            "sourcePath": "/Users/tommy/workspace/dx-workspace/geolocation/force-app/util/aura",
+            "isDirectory": true,
+            "size": 102,
+            "modifiedTime": 1535434987000,
+            "changeTime": 1535434987000,
+            "contentHash": "122b60156ccc94af9b23f10dad9f5e3c779dca1d",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/tommy/workspace/dx-workspace/geolocation/force-app/util/aura/Component1",
+        {
+            "sourcePath": "/Users/tommy/workspace/dx-workspace/geolocation/force-app/util/aura/Component1",
+            "isDirectory": true,
+            "size": 374,
+            "modifiedTime": 1535434987000,
+            "changeTime": 1535434987000,
+            "contentHash": "6ef86df66649c831d63bea3a5c69d342ed3d7370",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/tommy/workspace/dx-workspace/geolocation/force-app/HelloWorld.page",
+        {
+            "sourcePath": "/Users/tommy/workspace/dx-workspace/geolocation/force-app/HelloWorld.page",
+            "isDirectory": false,
+            "size": 156,
+            "modifiedTime": 1535434849000,
+            "changeTime": 1535434849000,
+            "contentHash": "646b46e60e893cfb7eb978462248b08070306fb2",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/tommy/workspace/dx-workspace/geolocation/force-app/HelloWorld.page-meta.xml",
+        {
+            "sourcePath": "/Users/tommy/workspace/dx-workspace/geolocation/force-app/HelloWorld.page-meta.xml",
+            "isDirectory": false,
+            "size": 188,
+            "modifiedTime": 1535434849000,
+            "changeTime": 1535434849000,
+            "contentHash": "e33ca73e9ce3eceea080124bef54efa963ef4e12",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/tommy/workspace/dx-workspace/geolocation/force-app/util/AccountSecretService.cls",
+        {
+            "sourcePath": "/Users/tommy/workspace/dx-workspace/geolocation/force-app/util/AccountSecretService.cls",
+            "isDirectory": false,
+            "size": 116,
+            "modifiedTime": 1535788911000,
+            "changeTime": 1535788911000,
+            "contentHash": "3d93258ae3550151ca06cb2c384cd1300204e64f",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
+        }
+    ],
+    [
+        "/Users/tommy/workspace/dx-workspace/geolocation/force-app/util/AccountSecretService.cls-meta.xml",
+        {
+            "sourcePath": "/Users/tommy/workspace/dx-workspace/geolocation/force-app/util/AccountSecretService.cls-meta.xml",
+            "isDirectory": false,
+            "size": 198,
+            "modifiedTime": 1535434656000,
+            "changeTime": 1535434656000,
+            "contentHash": "e574b4f2e88c777acf2fe540f91e0bdbedcc35e5",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/tommy/workspace/dx-workspace/geolocation/force-app/util/aura/Component1/Component1.auradoc",
+        {
+            "sourcePath": "/Users/tommy/workspace/dx-workspace/geolocation/force-app/util/aura/Component1/Component1.auradoc",
+            "isDirectory": false,
+            "size": 209,
+            "modifiedTime": 1535434987000,
+            "changeTime": 1535434987000,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/tommy/workspace/dx-workspace/geolocation/force-app/util/aura/Component1/Component1.cmp",
+        {
+            "sourcePath": "/Users/tommy/workspace/dx-workspace/geolocation/force-app/util/aura/Component1/Component1.cmp",
+            "isDirectory": false,
+            "size": 37,
+            "modifiedTime": 1535434987000,
+            "changeTime": 1535434987000,
+            "contentHash": "bac5bb79bbfe029fc6eb7729b2e53aee4b008e71",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/tommy/workspace/dx-workspace/geolocation/force-app/util/aura/Component1/Component1.cmp-meta.xml",
+        {
+            "sourcePath": "/Users/tommy/workspace/dx-workspace/geolocation/force-app/util/aura/Component1/Component1.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 242,
+            "modifiedTime": 1535434987000,
+            "changeTime": 1535434987000,
+            "contentHash": "ecf2977e81c950015062a6f120739dd728285f87",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/tommy/workspace/dx-workspace/geolocation/force-app/util/aura/Component1/Component1.css",
+        {
+            "sourcePath": "/Users/tommy/workspace/dx-workspace/geolocation/force-app/util/aura/Component1/Component1.css",
+            "isDirectory": false,
+            "size": 10,
+            "modifiedTime": 1535434987000,
+            "changeTime": 1535434987000,
+            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/tommy/workspace/dx-workspace/geolocation/force-app/util/aura/Component1/Component1.design",
+        {
+            "sourcePath": "/Users/tommy/workspace/dx-workspace/geolocation/force-app/util/aura/Component1/Component1.design",
+            "isDirectory": false,
+            "size": 40,
+            "modifiedTime": 1535434987000,
+            "changeTime": 1535434987000,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/tommy/workspace/dx-workspace/geolocation/force-app/util/aura/Component1/Component1.svg",
+        {
+            "sourcePath": "/Users/tommy/workspace/dx-workspace/geolocation/force-app/util/aura/Component1/Component1.svg",
+            "isDirectory": false,
+            "size": 661,
+            "modifiedTime": 1535434987000,
+            "changeTime": 1535434987000,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/tommy/workspace/dx-workspace/geolocation/force-app/util/aura/Component1/Component1Controller.js",
+        {
+            "sourcePath": "/Users/tommy/workspace/dx-workspace/geolocation/force-app/util/aura/Component1/Component1Controller.js",
+            "isDirectory": false,
+            "size": 65,
+            "modifiedTime": 1535434987000,
+            "changeTime": 1535434987000,
+            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/tommy/workspace/dx-workspace/geolocation/force-app/util/aura/Component1/Component1Helper.js",
+        {
+            "sourcePath": "/Users/tommy/workspace/dx-workspace/geolocation/force-app/util/aura/Component1/Component1Helper.js",
+            "isDirectory": false,
+            "size": 45,
+            "modifiedTime": 1535434987000,
+            "changeTime": 1535434987000,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/tommy/workspace/dx-workspace/geolocation/force-app/util/aura/Component1/Component1Renderer.js",
+        {
+            "sourcePath": "/Users/tommy/workspace/dx-workspace/geolocation/force-app/util/aura/Component1/Component1Renderer.js",
+            "isDirectory": false,
+            "size": 50,
+            "modifiedTime": 1535434987000,
+            "changeTime": 1535434987000,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/tommy/workspace/dx-workspace/geolocation/service-app",
+        {
+            "sourcePath": "/Users/tommy/workspace/dx-workspace/geolocation/service-app",
+            "isDirectory": true,
+            "size": 136,
+            "modifiedTime": 1535435465000,
+            "changeTime": 1535435465000,
+            "contentHash": "200baf2aed8cffd022ca652661838e525b4335d6",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/Users/tommy/workspace/dx-workspace/geolocation/service-app/ServiceRouter.cls",
+        {
+            "sourcePath": "/Users/tommy/workspace/dx-workspace/geolocation/service-app/ServiceRouter.cls",
+            "isDirectory": false,
+            "size": 80,
+            "modifiedTime": 1535435465000,
+            "changeTime": 1535435465000,
+            "contentHash": "dbf871773b097025c31a18a20dcbcb89497228ae",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/tommy/workspace/dx-workspace/geolocation/service-app/ServiceRouter.cls-meta.xml",
+        {
+            "sourcePath": "/Users/tommy/workspace/dx-workspace/geolocation/service-app/ServiceRouter.cls-meta.xml",
+            "isDirectory": false,
+            "size": 191,
+            "modifiedTime": 1535435465000,
+            "changeTime": 1535435465000,
+            "contentHash": "ed40348794920899bc9975bcd1b3f13ca6cacae8",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/tommy/workspace/dx-workspace/geolocation/force-app/tmforce",
+        {
+            "sourcePath": "/Users/tommy/workspace/dx-workspace/geolocation/force-app/tmforce",
+            "isDirectory": true,
+            "size": 136,
+            "modifiedTime": 1535788246000,
+            "changeTime": 1535788246000,
+            "contentHash": "8cbd38e944fc1b652bd6faef9108fe901485b65b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/tommy/workspace/dx-workspace/geolocation/force-app/tmforce/AccountSecretService.cls",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tommy/workspace/dx-workspace/geolocation/force-app/tmforce/AccountSecretService.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 118,
+            "modifiedTime": 1535789192000,
+            "changeTime": 1535789192000,
+            "isWorkspace": false,
+            "contentHash": "6c259b899c91c4327a00043872e7dff4bf51805a"
+        }
+    ],
+    [
+        "/Users/tommy/workspace/dx-workspace/geolocation/force-app/tmforce/AccountSecretService.cls-meta.xml",
+        {
+            "sourcePath": "/Users/tommy/workspace/dx-workspace/geolocation/force-app/tmforce/AccountSecretService.cls-meta.xml",
+            "isDirectory": false,
+            "size": 198,
+            "modifiedTime": 1535788246000,
+            "changeTime": 1535788246000,
+            "contentHash": "e574b4f2e88c777acf2fe540f91e0bdbedcc35e5",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ]
+]

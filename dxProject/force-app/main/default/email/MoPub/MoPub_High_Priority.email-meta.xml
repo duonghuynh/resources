@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <description>test TM 1</description>
+    <encodingKey>ISO-8859-1</encodingKey>
+    <letterhead>MoPub</letterhead>
+    <name>MoPub High / Priority</name>
+    <style>freeForm</style>
+    <subject>{!Case.Subject} - P0 Needs Resolution</subject>
+    <textOnly>{!Case.Subject} is a P0 issue and has not been resolved within 24 hours. Please work with the PSO team on resolution.</textOnly>
+    <type>html</type>
+    <uiType>Aloha</uiType>
+</EmailTemplate>

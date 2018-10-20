@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Global_Vertical__c</fullName>
+    <description>global vertical desc
+proper description 48</description>
+    <externalId>false</externalId>
+    <label>Global Vertical</label>
+    <required>false</required>
+    <trackTrending>false</trackTrending>
+    <type>Picklist</type>
+    <valueSet>
+        <restricted>true</restricted>
+        <valueSetName>TM_Vertical</valueSetName>
+    </valueSet>
+</CustomField>

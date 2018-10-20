@@ -1,0 +1,6 @@
+<table height="400" width="550" cellpadding="5" border="0" cellspacing="5" >
+<tr height="400" valign="top" >
+<td style=" color:#000000; font-size:12pt; background-color:#FFFFFF; font-family:arial; bLabel:main; bEditID:r3st1;" tEditID="c1r1" locked="0" aEditID="c1r1" >
+<![CDATA[<span style="background-color: rgb(255, 255, 255);"><font color="#333333" face="monospace"><span style="font-size: 14.545454025268555px; line-height: 26.66193199157715px;">{!Case.Subject}</span></font><font color="#333333" face="Arial, sans-serif"><span style="font-size: 14.666666984558105px; line-height: 26.66666603088379px;">&nbsp;is a P0 issue and has not been resolved within 24 hours. Please work with the PSO team on resolution.</span></font></span>]]></td>
+</tr>
+</table>
